@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:padding="16dp"
+
+    android:weightSum="10"
+    tools:context=".FourthActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/ReceptaHeader"
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/recepta_z_dnia" />
+
+        <TextView
+            style="@style/ReceptaFooter"
+            android:id="@+id/data_wystawienia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+        <TextView
+            style="@style/ReceptaHeader"
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/wystawiono_przez" />
+
+        <TextView
+            style="@style/ReceptaFooter"
+            android:id="@+id/lekarz"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+        <TextView
+            style="@style/ReceptaHeader"
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lista_lekow" />
+
+        <TextView
+            style="@style/ReceptaFooter"
+            android:id="@+id/lek"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+        <TextView
+            android:layout_marginTop="32dp"
+            android:id="@+id/textView14"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/zeskanuj_ponizszy_kod_w_aptece" />
+
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@+id/qr_code"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lub_podaj_ten_kod_w_aptece_wraz_ze_swoim_numerem_pesel" />
+
+        <TextView
+            style="@style/TableRow"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:id="@+id/kod_recepty"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+    </LinearLayout>
+
+    <Button
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/button_second"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/wroc"
+        />
+
+</LinearLayout>

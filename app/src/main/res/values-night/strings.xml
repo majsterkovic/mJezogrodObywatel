@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mJeżogródObywatel</string>
+    <string name="imie">IMIĘ</string>
+    <string name="nazwisko">NAZWISKO</string>
+    <string name="data_urodzenia">DATA URODZENIA</string>
+    <string name="obywatelstwo">OBYWATELSTWO</string>
+    <string name="przydzial_sernika">PRZYDZIAŁ SERNIKA</string>
+    <string name="organ_wydawczy">ORGAN WYDAWCZY</string>
+    <string name="data_waznosci">DATA WAŻNOŚCI</string>
+    <string name="wroc">Wróć</string>
+    <string name="loguj">Loguj</string>
+    <string name="mjez_karta">mJeżKarta</string>
+    <string name="erecepta">eRecepta</string>
+</resources>

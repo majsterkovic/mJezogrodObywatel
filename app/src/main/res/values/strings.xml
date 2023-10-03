@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">mJeżogródObywatel</string>
+    <string name="imie">IMIĘ</string>
+    <string name="nazwisko">NAZWISKO</string>
+    <string name="data_urodzenia">DATA URODZENIA</string>
+    <string name="obywatelstwo">OBYWATELSTWO</string>
+    <string name="przydzial_sernika">PRZYDZIAŁ SERNIKA</string>
+    <string name="organ_wydawczy">ORGAN WYDAWCZY</string>
+    <string name="data_waznosci">DATA WAŻNOŚCI</string>
+    <string name="wroc">Wróć</string>
+    <string name="loguj">Loguj</string>
+    <string name="mjez_karta">mJeżKarta</string>
+    <string name="erecepta">eJeżRecepta</string>
+    <string name="recepta_z_dnia">RECEPTA Z DNIA</string>
+    <string name="wystawiono_przez">WYSTAWIONO PRZEZ</string>
+    <string name="lista_lekow">LISTA LEKÓW</string>
+    <string name="zeskanuj_ponizszy_kod_w_aptece">ZESKANUJ PONIŻSZY KOD W APTECE</string>
+    <string name="lub_podaj_ten_kod_w_aptece_wraz_ze_swoim_numerem_pesel">LUB PODAJ TEN KOD W APTECE WRAZ ZE SWOIM NUMEREM PESEL</string>
+</resources>

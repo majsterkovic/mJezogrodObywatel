@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TableRow">
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+    </style>
+
+    <style name="TableColumn">
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingLeft">16dp</item>
+    </style>
+
+    <style name="ReceptaHeader">
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="ReceptaFooter">
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+
+</resources>
