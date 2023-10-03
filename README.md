@@ -1,6 +1,6 @@
 # mJeżogródObywatel
 
-mJeżogródObywatel to zabawna i lekka aplikacja mobilna oparta na Kotlinie, która naśladuje koncepcję cyfrowego dowodu osobistego (mObywatel). Została stworzona jako żartobliwy żart na spotkanie przy grillu wśród przyjaciół, którzy są członkami grupy "Jeżogród" i posiadają własne "Jeżogród ID".
+mJeżogródObywatel is a fun and lighthearted Kotlin-based mobile app that mimics the concept of a digital ID card (mObywatel). It was created as a playful joke for a barbecue gathering among friends who are members of the "Jeżogród" group and hold their own "Jeżogród IDs."
 
 ## Features
 
